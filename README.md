@@ -2,13 +2,12 @@
 
 🎓 Currently studying Electronic and Telecommunication Engineering  
 💡 Passionate about learning, innovation, and building impactful tech projects  
-💪 Gym enthusiast balancing code, circuits, and dumbbells  
 
 ---
 
 ## 🔭 What I’m Working On  
 - Semester 3 Analog Electronics Project  
-- Building a Robot Car — due by the end of this semester  
+- Building a Robot Car — due by the end of this semester
 
 ---
 
@@ -32,13 +31,6 @@ I’m eager to connect with others working on machine learning, AI, and data sci
 Feel free to reach out via:  
 - [LinkedIn](https://www.linkedin.com/in/heshan-ranasinghe-988b00290)  
 - Email: `hranasinghe505@gmail.com`
-
----
-
-## ⚡ Fun Facts  
-- I’m a team leader with strong leadership skills (used to be an icebreaker)  
-- A hungry learner who loves exploring new topics, especially in ML and AI  
-- Balancing academics, projects, and gym life  
 
 ---
 
