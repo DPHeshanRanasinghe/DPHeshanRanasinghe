@@ -6,8 +6,7 @@
 ---
 
 ## 🔭 What I’m Working On  
-- Semester 3 Analog Electronics Project  
-- Building a Robot Car — due by the end of this semester
+-  Projects related to CNN
 
 ---
 
