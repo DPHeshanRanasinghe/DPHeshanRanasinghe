@@ -19,12 +19,6 @@ Currently developing expertise in deep learning architectures, particularly conv
 
 ## Technical Focus
 
-**Current Research Areas:**
-- Convolutional Neural Networks (CNN)
-- Computer Vision and Image Processing
-- Natural Language Processing (NLP)
-- Deep Learning Architecture Design
-
 **Core Competencies:**
 - Machine Learning Model Development
 - Transfer Learning Implementation
@@ -34,29 +28,14 @@ Currently developing expertise in deep learning architectures, particularly conv
 **Academic Foundation:**
 - Electronic and Telecommunication Engineering Principles
 - Advanced Mathematics for Data Science
-- Signal Processing and Pattern Recognition
 
 ---
 
-## Current Work
-
-Actively developing projects involving:
-- Image classification systems using transfer learning
-- Natural language processing applications
-- Deep learning model optimization
-- Computer vision solutions for real-world problems
-
-Recent implementations include high-accuracy animal classification using MobileNetV2 (98% validation accuracy) and email spam detection using NLP techniques (99.4% accuracy).
-
----
-
-## Learning Path
+## Current Projects
 
 **Ongoing Development:**
-- Advanced deep learning architectures
-- Reinforcement Learning (RL)
-- Model deployment and production engineering
-- Explainable AI and model interpretability
+- CNN projects
+- Raspbery Pi Projects
 
 **Future Interests:**
 - Quantum Machine Learning
@@ -70,9 +49,7 @@ Recent implementations include high-accuracy animal classification using MobileN
 
 I welcome opportunities to collaborate on machine learning projects, particularly in:
 - Computer vision applications
-- Deep learning research
 - Open-source ML tools
-- Educational AI projects
 
 For project inquiries or collaboration opportunities, feel free to connect via [LinkedIn](https://www.linkedin.com/in/heshan-ranasinghe-988b00290) or email at hranasinghe505@gmail.com.
 
@@ -84,7 +61,7 @@ For project inquiries or collaboration opportunities, feel free to connect via [
 **Frameworks:** TensorFlow, Keras, scikit-learn  
 **Libraries:** NumPy, Pandas, OpenCV, spaCy  
 **Tools:** Jupyter Notebook, Git, VS Code  
-**Specializations:** CNN, NLP, Transfer Learning, Model Optimization
+**Specializations:** Machine Learning and Deep Learning
 
 ---
 
