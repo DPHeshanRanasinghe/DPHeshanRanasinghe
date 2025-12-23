@@ -12,8 +12,6 @@
 
 I am an engineering student with a strong focus on artificial intelligence and its applications in real-world systems. My work combines theoretical knowledge from electronic and telecommunication engineering with practical implementations in machine learning and computer vision.
 
-Currently developing expertise in deep learning architectures, particularly convolutional neural networks for computer vision applications. I approach each project with a commitment to understanding fundamental principles while building production-ready solutions.
-
 ---
 
 ## Technical Focus
