@@ -1,7 +1,6 @@
 # Heshan Ranasinghe
 
 **Electronic and Telecommunication Engineering Undergraduate**  
-Specializing in Machine Learning, Computer Vision, and Deep Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/heshan-ranasinghe-988b00290)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:hranasinghe505@gmail.com)
