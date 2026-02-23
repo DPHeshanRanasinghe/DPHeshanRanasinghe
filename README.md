@@ -55,7 +55,7 @@ For project inquiries or collaboration opportunities, feel free to connect via [
 ## Technical Stack
 
 **Languages:** Python  
-**Frameworks:** TensorFlow, Keras, scikit-learn  
+**Frameworks:** TensorFlow, Keras, scikit-learn, PyTorch
 **Libraries:** NumPy, Pandas, OpenCV, spaCy  
 **Tools:** Jupyter Notebook, Git, VS Code  
 **Specializations:** Machine Learning and Deep Learning
