@@ -55,7 +55,6 @@ Engineering undergraduate building at the intersection of **deep learning**, **h
 |---|---|---|
 | **CranioVision** — AI-assisted clinical platform for 3D brain tumor segmentation with multi-model consensus, per-voxel uncertainty quantification, XAI attention heatmaps, and volumetric analysis from multi-modal MRI (T1, T1c, T2, FLAIR) | Biomedical AI · CV | PyTorch · MONAI · SimpleITK |
 | **Task-Driven Object Detection + FPGA Acceleration** — DVcon India 2026 | Computer Vision · Edge AI | Verilog · Xilinx Vivado · YOLOv8 |
-| **Smart Biogas Ecosystem** — SPARK 2026, ENTC Electronic Club | Embedded · Sensor Fusion | Raspberry Pi · Arduino · MQ sensors |
 | **Autonomous Cleaning Robot** — EN2160, ROS2 navigation stack with real-time vision | Robotics · CV | RPLIDAR A1M8 · ROS2 · YOLOv8 · RPi 5 |
 | **Eye Disease Grading** — diabetic retinopathy classification, APTOS 2019 dataset | Medical Imaging | PyTorch · ONNX |
 | **Image Captioning** — CNN encoder + Transformer decoder, Flickr8k / MS-COCO | Multimodal NLP | PyTorch · HuggingFace |
