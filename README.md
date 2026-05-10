@@ -90,16 +90,6 @@ Engineering undergraduate building at the intersection of **deep learning**, **h
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DPHeshanRanasinghe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DPHeshanRanasinghe&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
