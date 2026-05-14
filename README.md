@@ -48,7 +48,7 @@
 </p>
 
 <!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/BrunoSobrino/BrunoSobrino/main/img/rainbow_line.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,20&height=3" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                              ABOUT ME                                    ║ -->
@@ -248,7 +248,7 @@ mindset:
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=DPHeshanRanasinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DPHeshanRanasinghe&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
+  <img height="180" src="https://streak-stats.demolab.com?user=DPHeshanRanasinghe&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
 </div>
 
 <br/>
