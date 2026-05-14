@@ -21,13 +21,16 @@ jobs:
 
     steps:
       - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
+        id: snake-svg
         with:
           github_user_name: DPHeshanRanasinghe
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd7ff,#218bff,#0969da,#0550ae,#033d8b
+            dist/ocean.gif?color_snake=#58a6ff&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
