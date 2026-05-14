@@ -65,7 +65,7 @@ name:        Heshan Ranasinghe
 role:        Engineering Undergraduate
 university:  University of Moratuwa, Sri Lanka
 department:  Electronic & Telecommunication Engineering
-location:    Colombo, LK
+location:    Negombo, LK
 
 focus:
   - Computer Vision
@@ -308,7 +308,7 @@ mindset:
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Community & Leadership
 
 - 🎤 **Event Chair** — IEEE Signal Processing Society Student Branch Chapter · *SP Cup (inaugural)* · University of Moratuwa
-- 💰 **Finance Committee Coordinator** — *AI Drive*, IEEE Sri Lanka Section
+- 💰 **Finance Committee Coordinator** — *AI Driven Srl Lanka*, IEEE Sri Lanka Section
 
 <!-- Animated divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,20,30&height=3" width="100%"/>
