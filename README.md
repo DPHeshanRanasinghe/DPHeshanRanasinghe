@@ -3,7 +3,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://github.com/DPHeshanRanasinghe">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Heshan%20Ranasinghe&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Electronic%20%26%20Telecommunication%20Engineer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Hardware%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Heshan%20Ranasinghe&fontSize=60&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" />
 </a>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
@@ -27,10 +27,10 @@
     <img src="https://komarev.com/ghpvc/?username=DPHeshanRanasinghe&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Profile views (updates daily)" />
   </a>
   <a href="https://github.com/DPHeshanRanasinghe?tab=followers">
-    <img src="https://img.shields.io/github/followers/DPHeshanRanasinghe?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/DPHeshanRanasinghe?label=Followers&style=social" alt="Followers" />
   </a>
   <a href="https://github.com/DPHeshanRanasinghe?tab=repositories">
-    <img src="https://img.shields.io/github/stars/DPHeshanRanasinghe?label=Stars&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/DPHeshanRanasinghe?label=Stars&style=social" alt="Stars" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Deep_Learning_%2B_Hardware-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Focus" />
 </p>
@@ -247,15 +247,22 @@ mindset:
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> &nbsp;GitHub Statistics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DPHeshanRanasinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=DPHeshanRanasinghe&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DPHeshanRanasinghe&theme=tokyonight" />
+  <img height="195" src="https://streak-stats.demolab.com?user=DPHeshanRanasinghe&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPHeshanRanasinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DPHeshanRanasinghe&theme=tokyonight&utcOffset=5.5" height="180"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DPHeshanRanasinghe&theme=tokyonight" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DPHeshanRanasinghe&theme=tokyonight" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DPHeshanRanasinghe&theme=tokyonight" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DPHeshanRanasinghe&theme=tokyonight&utcOffset=5.5" />
 </div>
 
 <br/>
