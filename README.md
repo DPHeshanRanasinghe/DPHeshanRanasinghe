@@ -194,22 +194,17 @@ mindset:
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                              TECH STACK                                  ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="32"> &nbsp;Tech Stack
-
 <div align="center">
 
 **Languages**
-
 <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,bash,latex&perline=6" />
 <br/>
 <img src="https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/SystemVerilog-E60012?style=for-the-badge&logoColor=white" />
-
 <br/><br/>
 
 **Machine Learning / AI**
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" />
 <br/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -217,25 +212,23 @@ mindset:
 <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
 <br/><br/>
 
 **Hardware · Embedded · Robotics**
-
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux&perline=3" />
 <br/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 <img src="https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-
 <br/><br/>
 
 **Tools**
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,anaconda,latex,figma&perline=7" />
-
 </div>
+
 
 <!-- Animated divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,20,30&height=3" width="100%"/>
