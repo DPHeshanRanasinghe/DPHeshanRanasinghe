@@ -11,7 +11,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="./assets/heshan_numberart_reveal.gif" width="380" alt="Heshan Ranasinghe" />
+  <img src="./assets/heshan_numberart_reveal.gif" width="600" alt="Heshan Ranasinghe" />
 </div>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
