@@ -274,13 +274,6 @@ mindset:
 
 <br/>
 
-<!-- Trophies -->
-<div align="center">
-  <a href="https://github.com/DPHeshanRanasinghe">
-    <img src="https://github-profile-trophy.vercel.app/?username=DPHeshanRanasinghe&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&row=1&column=7" />
-  </a>
-</div>
-
 <!-- Animated divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,20,30&height=3" width="100%"/>
 
