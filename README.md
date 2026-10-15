@@ -265,15 +265,6 @@ mindset:
   <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DPHeshanRanasinghe&theme=tokyonight&utcOffset=5.5" />
 </div>
 
-<br/>
-
-<!-- Contribution activity graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DPHeshanRanasinghe&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="98%" />
-</div>
-
-<br/>
-
 
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                          SNAKE ANIMATION                                 ║ -->
