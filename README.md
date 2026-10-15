@@ -274,8 +274,6 @@ mindset:
 
 <br/>
 
-<!-- Animated divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,20,30&height=3" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                          SNAKE ANIMATION                                 ║ -->
