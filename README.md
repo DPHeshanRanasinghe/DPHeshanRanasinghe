@@ -258,12 +258,6 @@ mindset:
   <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DPHeshanRanasinghe&theme=tokyonight" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DPHeshanRanasinghe&theme=tokyonight" />
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DPHeshanRanasinghe&theme=tokyonight&utcOffset=5.5" />
-</div>
 
 
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
