@@ -300,7 +300,7 @@ mindset:
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Community & Leadership
 
-- 🎤 **Event Chair** — IEEE Signal Processing Society Student Branch Chapter · *SP Cup (inaugural)* · University of Moratuwa
+- 🎤 **Event Chair** — IEEE Signal Processing Society Student Branch Chapter · * MORA SP Cup (inaugural)* · University of Moratuwa
 - 💰 **Finance Committee Coordinator** — *AI Driven Srl Lanka*, IEEE Sri Lanka Section
 
 <!-- Animated divider -->
